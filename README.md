@@ -6,7 +6,7 @@
 
 ## About Me
 
-Computer Science student at Dallas College, building full-stack web applications and exploring cybersecurity. Currently building the complete digital presence for Irving Nepal FC, including a public club website and a full-stack member portal with authentication and an admin dashboard.
+Computer Science student at Caltech, building full-stack web applications and exploring cybersecurity. Currently building the complete digital presence for Irving Nepal FC, including a public club website and a full-stack member portal with authentication and an admin dashboard.
 
 Currently learning ethical hacking and application security.
 
